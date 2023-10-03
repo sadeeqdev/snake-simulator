@@ -99,7 +99,7 @@ void input()
 // Function to control the game logic
 void controller()
 {
-    usleep(100000); // Delay to control game speed
+    usleep(20000000000000); // Delay to control game speed
 
     switch (direction)
     {
