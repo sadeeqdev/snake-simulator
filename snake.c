@@ -4,7 +4,7 @@
 #include <ncurses.h>
 #include <unistd.h>
 
-int height = 28, width = 56;
+int height = 25, width = 50;
 int i, j, snake_x, snake_y, food_x, food_y, direction;
 int game_over, score;
 
